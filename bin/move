@@ -7,5 +7,4 @@ puts "Welcome to Tic Tac Toe!"
 
 board = " ", " ", " ", " ", " ", " ", " ", " ", " "
 
-def user_input(index)
 puts "Where would you like to go?"
